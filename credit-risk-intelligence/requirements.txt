@@ -1,1 +1,13 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+fastapi
+uvicorn
+pydantic
+psycopg2-binary
+streamlit
+requests
+matplotlib
 
