@@ -1,1 +1,7 @@
+loan_amnt,annual_inc,dti,fico_range_low,fico_range_high,int_rate,term,grade,purpose,loan_status
+10000,55000,18.5,660,680,12.5,36 months,B,credit_card,Fully Paid
+25000,72000,22.1,690,710,14.2,60 months,C,debt_consolidation,Charged Off
+15000,48000,16.3,640,660,10.9,36 months,A,home_improvement,Current
+30000,90000,28.4,710,730,18.1,60 months,D,other,Default
+8000,40000,12.7,620,640,9.8,36 months,B,credit_card,Fully Paid
 
