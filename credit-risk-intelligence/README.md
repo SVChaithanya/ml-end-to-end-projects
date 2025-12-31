@@ -23,7 +23,7 @@ The system includes:
 
 ## 🔹 Dataset
 - Source: Lending Club / Synthetic Dataset  
-- Size: ~XX,XXX rows, XX features  
+- Size: ~100,000 rows, 08 features  
 - Key Features:  
   - `loan_amount` – Loan amount requested  
   - `term` – Loan term in months  
@@ -123,13 +123,6 @@ This project is for educational purposes. Please do not use it for commercial le
 
 
 
-🔹 use this for ruuning
-
-API:
-uvicorn api.api:app --reload
-
-Streamlit:
-streamlit run streamlit/app.py
 
 
 
