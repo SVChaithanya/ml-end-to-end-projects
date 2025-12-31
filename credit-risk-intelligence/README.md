@@ -39,8 +39,7 @@ The system includes:
 ## 🔹 Installation
 
 1. Clone the repository:
-- git clone https://github.com/SVChaithanya/ml-end-to-end-projects.gicd credit-risk-intelligence
-+ git clone https://github.com/SVChaithanya/ml-end-to-end-projects.git credit-risk-intelligence
+- git clone https://github.com/SVChaithanya/ml-end-to-end-projects.gicd/credit-risk-intelligence
 
 
 2.Create a virtual environment:
@@ -124,7 +123,13 @@ This project is for educational purposes. Please do not use it for commercial le
 
 
 
+🔹 use this for ruuning
 
+API:
+uvicorn api.api:app --reload
+
+Streamlit:
+streamlit run streamlit/app.py
 
 
 
